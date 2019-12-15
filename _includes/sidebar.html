@@ -6,18 +6,12 @@
         {% unless page.url == "/" %}
           <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
         {% endunless %}
-        <img class="logo" src="{{ site.baseurl }}/logo.png"></img>
+        <img class="logo" src="{{ site.baseurl }}logo.svg"></img>
         {{ site.title }}
       </a>
     </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
-    <p class="lead">{{ site.description }}</p>
   </header>
   {% include sidebar-nav-links.html %}
 
-  {% if site.version %}
-    <span class="site-version">Currently v{{ site.version }}</span>
-  {% endif %}
-
   {% include sidebar-icon-links.html %}
-  {% include copyright.html %}
 </div>

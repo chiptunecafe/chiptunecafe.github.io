@@ -3,14 +3,18 @@
 # only main files contain this front matter, not partials.
 ---
 
-$gray-6: #f9f9f9;
-$gray-5: #e5e5e5;
-$gray-4: #ccc;
-$gray-3: #767676;
-$gray-2: #515151;
-$gray-1: #313131;
-$body-bg: #101010;
-$link-color: #bf616a;
+$root-font-family: 'Roboto', sans-serif;
+$root-line-height: 1.5;
+$body-bg: #1c1c1c;
+$body-muted: #6d6d6d;
+$body-color: #dbdbdb;
+$heading-color: #dbdbdb;
+$heading-spacing: 1rem;
+$link-color: #d56489;
 $sidebar-bg-color: #292827;
+$sidebar-text-color: #dbdbdb;
+$sidebar-title-color: #dbdbdb;
 $sidebar-link-color: #6399df;
+$sidebar-sticky: false;
+$border-color: $body-muted;
 @import "hydeout";

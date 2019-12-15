@@ -38,10 +38,10 @@ body {
 
 #sidebar {
   flex: 0 0 auto;
-  padding: $section-spacing;
+  padding: 3.5rem;
+  padding-top: 4rem;
 
   .site-title {
-    /*font-family: "Abril Fatface", serif;*/
     font-weight: 900;
     font-size: $large-font-size;
     margin-top: 0;
@@ -81,7 +81,7 @@ body {
     display: none;
   }
   img.logo {
-    height: 3.25rem;
+    width: 2em;
     display: inline-block;
     vertical-align: middle;
   }
@@ -129,12 +129,6 @@ body {
       display: flex;
     }
   }
-
-  // Slightly more bottom padding to compensate for heading not match 100% of
-  // line-height on top
-  > *:last-child {
-    margin-bottom: 0.5rem;
-  }
 }
 
 
@@ -180,7 +174,7 @@ body {
       display: flex;
     }
     img.logo {
-      height: 10rem;
+      width: 90%;
       display: block;
       vertical-align: middle;
     }
@@ -204,7 +198,7 @@ body {
         color: inherit;
 
         &:last-child {
-          margin-bottom: $heading-spacing;
+          margin-bottom: 0;
         }
       }
     }
@@ -240,7 +234,7 @@ body {
   }
 
   &.active {
-    font-weight: bold;
+    // font-weight: bold;
   }
 }
 
@@ -254,6 +248,8 @@ body {
 
 #sidebar-nav-links {
   flex-flow: column nowrap;
+  font-size: 1.2em;
+  font-weight: 500;
 }
 
 #sidebar-icon-links {
