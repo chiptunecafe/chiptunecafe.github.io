@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Archive
+title: Blog entries
 category: blog
 ---

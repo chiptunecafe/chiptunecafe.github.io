@@ -6,6 +6,8 @@ layout: post
 slug: 2019-6-13-outrun-2019s-soundtrack-gets-a-timely-redux
 title: OutRun 2019's Soundtrack Gets a Timely REDUX
 wordpress_id: 30
+categories:
+- blog
 ---
 
 You know, one phenomenon we’re seeing more and more as the years roll by is that works of fiction that were previously set in the future are now taking place in today’s day and age. The best example I can think of for this is Back to the Future II, with the main characters travelling from 1985 to the then-future of 2015. Remember all the buzz back in 2015 when the Cubs almost broke the [Curse of the Billy Goat](https://en.wikipedia.org/wiki/Curse_of_the_Billy_Goat) and everyone was saying that Back to the Future predicted the future? Yeah, so much for that.
@@ -30,7 +32,7 @@ But, yeah. That’s all we have for today. Sorry about the hiatus; I’ve been p
 
 
 
-[caption id="" align="alignnone" width="480.0"]![ OutRun 2019: All the fun of strapping a jet engine to the back of your car with none of the inevitable vehicular manslaughter! ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1560425836221-LDPFM2IUE94FKYKN4XVS/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/hqdefault.jpg?format=original)  OutRun 2019: All the fun of strapping a jet engine to the back of your car with none of the inevitable vehicular manslaughter! [/caption] 
+![ OutRun 2019: All the fun of strapping a jet engine to the back of your car with none of the inevitable vehicular manslaughter! ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1560425836221-LDPFM2IUE94FKYKN4XVS/ke17ZwdGBToddI8pDm48kNKU_v8gJAcxDrmB-soKvj1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVH7wdpQi_gwH_-rfgB8xc3aCDYU5QsKfHvKofLxtwAwA5XleA9PsoOHujT9UMkA80c/hqdefault.jpg?format=original)  OutRun 2019: All the fun of strapping a jet engine to the back of your car with none of the inevitable vehicular manslaughter!
 
 
 
@@ -45,7 +47,7 @@ But, yeah. That’s all we have for today. Sorry about the hiatus; I’ve been p
 
 
 
-[caption id="" align="alignnone" width="1154.0"]![ Pretty Swole Team They’ve Put Together, ngl. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1560427689040-958UL0T1ZLE2KCIC3KS9/ke17ZwdGBToddI8pDm48kBiYvS2z75X967fpXOjSm0MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYImoA4CsWmT0Swjj6XHyQLpgNRsqCt_1BanbQnq2M0NIZTLIBDyjgZXc-9T21WK0/team.png?format=original)  Pretty Swole Team They’ve Put Together, ngl. [/caption] 
+![ Pretty Swole Team They’ve Put Together, ngl. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1560427689040-958UL0T1ZLE2KCIC3KS9/ke17ZwdGBToddI8pDm48kBiYvS2z75X967fpXOjSm0MUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcYImoA4CsWmT0Swjj6XHyQLpgNRsqCt_1BanbQnq2M0NIZTLIBDyjgZXc-9T21WK0/team.png?format=original)  Pretty Swole Team They’ve Put Together, ngl.
 
 
 
@@ -55,4 +57,4 @@ But, yeah. That’s all we have for today. Sorry about the hiatus; I’ve been p
 
 
 
-[caption id="" align="alignnone" width="852.0"]![ Stream drinking game: every time somebody says ‘2019,’ take half a shot. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1560428526295-F21I9F7L4WNU4JO3VQCO/ke17ZwdGBToddI8pDm48kHmsQLiNe_wraAMD99sZxV9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIj_uzRpgXOFUTkPs52Ns2sHuAvuSHmErtcrc4dStKIm4KMshLAGzx4R3EDFOm1kBS/2+%281%29.jpg?format=original)  Stream drinking game: every time somebody says ‘2019,’ take half a shot. [/caption]
+![ Stream drinking game: every time somebody says ‘2019,’ take half a shot. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1560428526295-F21I9F7L4WNU4JO3VQCO/ke17ZwdGBToddI8pDm48kHmsQLiNe_wraAMD99sZxV9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIj_uzRpgXOFUTkPs52Ns2sHuAvuSHmErtcrc4dStKIm4KMshLAGzx4R3EDFOm1kBS/2+%281%29.jpg?format=original)  Stream drinking game: every time somebody says ‘2019,’ take half a shot.

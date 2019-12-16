@@ -50,29 +50,29 @@ Until next time, have a great evening, and make sure to update your drivers.
 
 
 
-[caption id="" align="alignnone" width="480.0"]![ The DefleMask, er, mask, which serves as the program’s logo. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556347139048-JTU9HR0OWPGOGWKBKG4T/ke17ZwdGBToddI8pDm48kBbdSUIHrnfszC0Uv-s6NXNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE_YweZ46TzN3xs0eDQ9z2st3c5YmPp0UrbPYofz_QbpDFvbuqF0GUInBxxtVhBOn4/DefleMask_Logo.png?format=original)  The DefleMask, er, mask, which serves as the program’s logo. [/caption] 
+![ The DefleMask, er, mask, which serves as the program’s logo. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556347139048-JTU9HR0OWPGOGWKBKG4T/ke17ZwdGBToddI8pDm48kBbdSUIHrnfszC0Uv-s6NXNZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVE_YweZ46TzN3xs0eDQ9z2st3c5YmPp0UrbPYofz_QbpDFvbuqF0GUInBxxtVhBOn4/DefleMask_Logo.png?format=original)  The DefleMask, er, mask, which serves as the program’s logo.
 
 
 
 
-[caption id="" align="alignnone" width="346.0"]![ Pictured: Leonardo Demartino, better known as Delek, DefleMask’s creator and project lead. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556347438551-0C901CYWLD3TQDWV5OZA/ke17ZwdGBToddI8pDm48kGehWOd3UMQ9HtMfgG7AxD1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEV-irYHWOz_rd40_88ZpKfu_sEw2GHpvJEW_o5MTnyhW0nsU3dfn6w--du8-EjPUE/delekpepsi.png?format=original)  Pictured: Leonardo Demartino, better known as Delek, DefleMask’s creator and project lead. [/caption] 
+![ Pictured: Leonardo Demartino, better known as Delek, DefleMask’s creator and project lead. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556347438551-0C901CYWLD3TQDWV5OZA/ke17ZwdGBToddI8pDm48kGehWOd3UMQ9HtMfgG7AxD1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEV-irYHWOz_rd40_88ZpKfu_sEw2GHpvJEW_o5MTnyhW0nsU3dfn6w--du8-EjPUE/delekpepsi.png?format=original)  Pictured: Leonardo Demartino, better known as Delek, DefleMask’s creator and project lead.
 
 
 
 
-[caption id="" align="alignnone" width="1334.0"]![ DefleMask Mobile’s redesigned UI… ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556348244044-3TNNATJXD0NZHRK44127/ke17ZwdGBToddI8pDm48kLXMM7vgPZ8okL8TCKCPeIcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccmSFRteMUC57YqC6dWzzREzdwcMzWcQabLxNvMi2G9o6LtcndZQMHCa0pUWFLUVp/swam3s6P.jpg?format=original)  DefleMask Mobile’s redesigned UI… [/caption] 
+![ DefleMask Mobile’s redesigned UI… ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556348244044-3TNNATJXD0NZHRK44127/ke17ZwdGBToddI8pDm48kLXMM7vgPZ8okL8TCKCPeIcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccmSFRteMUC57YqC6dWzzREzdwcMzWcQabLxNvMi2G9o6LtcndZQMHCa0pUWFLUVp/swam3s6P.jpg?format=original)  DefleMask Mobile’s redesigned UI…
 
 
 
 
-[caption id="" align="alignnone" width="1334.0"]![ with the pattern matrix open… ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556348299970-E1HEM92O0X2W6B5KHNE1/ke17ZwdGBToddI8pDm48kLXMM7vgPZ8okL8TCKCPeIcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccmSFRteMUC57YqC6dWzzREzdwcMzWcQabLxNvMi2G9o6LtcndZQMHCa0pUWFLUVp/b9MpDY3p.jpg?format=original)  with the pattern matrix open… [/caption] 
+![ with the pattern matrix open… ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556348299970-E1HEM92O0X2W6B5KHNE1/ke17ZwdGBToddI8pDm48kLXMM7vgPZ8okL8TCKCPeIcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccmSFRteMUC57YqC6dWzzREzdwcMzWcQabLxNvMi2G9o6LtcndZQMHCa0pUWFLUVp/b9MpDY3p.jpg?format=original)  with the pattern matrix open…
 
 
 
 
-[caption id="" align="alignnone" width="1334.0"]![ and with the instrument editor open. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556348368458-SKSJYVGI53YT34VV7A49/ke17ZwdGBToddI8pDm48kLXMM7vgPZ8okL8TCKCPeIcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccmSFRteMUC57YqC6dWzzREzdwcMzWcQabLxNvMi2G9o6LtcndZQMHCa0pUWFLUVp/mS_sohpt.jpg?format=original)  and with the instrument editor open. [/caption] 
+![ and with the instrument editor open. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556348368458-SKSJYVGI53YT34VV7A49/ke17ZwdGBToddI8pDm48kLXMM7vgPZ8okL8TCKCPeIcUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKccmSFRteMUC57YqC6dWzzREzdwcMzWcQabLxNvMi2G9o6LtcndZQMHCa0pUWFLUVp/mS_sohpt.jpg?format=original)  and with the instrument editor open.
 
 
 
 
-[caption id="" align="alignnone" width="400.0"]![ Circuit Bird, a well respected composer with over 1,000 followers on  SoundCloud , has been logging time in DefleMask Mobile’s release version since its release on the 22nd. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556348773759-CV8LOWSAOCE2GT66K7AQ/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFUQAah1E2d0qOFNma4CJuw0VgyloEfPuSsyFRoaaKT76QvevUbj177dmcMs1F0H-0/JwnOPSOK_400x400.png?format=original)  Circuit Bird, a well respected composer with over 1,000 followers on  SoundCloud , has been logging time in DefleMask Mobile’s release version since its release on the 22nd. [/caption]
+![ Circuit Bird, a well respected composer with over 1,000 followers on  SoundCloud , has been logging time in DefleMask Mobile’s release version since its release on the 22nd. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1556348773759-CV8LOWSAOCE2GT66K7AQ/ke17ZwdGBToddI8pDm48kLxnK526YWAH1qleWz-y7AFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFUQAah1E2d0qOFNma4CJuw0VgyloEfPuSsyFRoaaKT76QvevUbj177dmcMs1F0H-0/JwnOPSOK_400x400.png?format=original)  Circuit Bird, a well respected composer with over 1,000 followers on  SoundCloud , has been logging time in DefleMask Mobile’s release version since its release on the 22nd.

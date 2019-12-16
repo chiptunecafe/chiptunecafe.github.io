@@ -27,4 +27,4 @@ If you’re a fan of classic NES soundtracks, especially those of the original M
 
 
   
-       [caption id="" align="alignnone" width="500.0"]![ MiniMacro’s Logo ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1543817314325-ZW7Y2DAPJNP1XTX443SM/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzAFzFJoCInLPKyj9AG8yKe7-Q2aFvP177fkO9TY_-rz5WoqqTEZpmj4yDEOdwKV68/avatars-000384277565-41zsyi-t500x500.jpg?format=original)  MiniMacro’s Logo [/caption]
+![ MiniMacro’s Logo ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1543817314325-ZW7Y2DAPJNP1XTX443SM/ke17ZwdGBToddI8pDm48kAf-OpKpNsh_OjjU8JOdDKBZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzAFzFJoCInLPKyj9AG8yKe7-Q2aFvP177fkO9TY_-rz5WoqqTEZpmj4yDEOdwKV68/avatars-000384277565-41zsyi-t500x500.jpg?format=original)  MiniMacro’s Logo
