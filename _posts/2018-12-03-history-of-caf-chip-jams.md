@@ -16,7 +16,7 @@ tags:
  - Story
 ---
 
-[caption id="" align="alignnone" width="711.0"]![ The album art for The Meme Squad Album, created by  Quirby64  ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1543821728796-DR3L35KMU2DOVHTIXDTN/ke17ZwdGBToddI8pDm48kOfMrkbi80OniGc5l-NX-zhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwyIr0MCeIq66k0JhivdWKRwRe_MG7KoYNpCMq8rg5tZPMF5e9NhLbMZWFRxfR3p7s/maxresdefault.jpg?format=original)  The album art for The Meme Squad Album, created by  Quirby64  [/caption] 
+![ The album art for The Meme Squad Album, created by  Quirby64  ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1543821728796-DR3L35KMU2DOVHTIXDTN/ke17ZwdGBToddI8pDm48kOfMrkbi80OniGc5l-NX-zhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwyIr0MCeIq66k0JhivdWKRwRe_MG7KoYNpCMq8rg5tZPMF5e9NhLbMZWFRxfR3p7s/maxresdefault.jpg?format=original)  The album art for The Meme Squad Album, created by  Quirby64
   
 
 
@@ -39,24 +39,24 @@ The contest had some unique aspects to it that gave it some added flare. Once th
 
 
   
-       [caption id="" align="alignnone" width="720.0"]![ Art used in the announcement for The Meme Squad Album 2, designed by Jaden. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1543822118738-CV5BVBJ1XXRF658OPKVZ/ke17ZwdGBToddI8pDm48kMIbgE0a1Z-zE1popRzjSZVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzd_mswhSykw5PXtPcwYd1Lm_ahcGVK87m5-sZwHA_jUzFD-prToDidOTVvwW3LKLo/maxresdefault+%281%29.jpg?format=original)  Art used in the announcement for The Meme Squad Album 2, designed by Jaden. [/caption] 
+![ Art used in the announcement for The Meme Squad Album 2, designed by Jaden. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1543822118738-CV5BVBJ1XXRF658OPKVZ/ke17ZwdGBToddI8pDm48kMIbgE0a1Z-zE1popRzjSZVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzd_mswhSykw5PXtPcwYd1Lm_ahcGVK87m5-sZwHA_jUzFD-prToDidOTVvwW3LKLo/maxresdefault+%281%29.jpg?format=original)  Art used in the announcement for The Meme Squad Album 2, designed by Jaden.
   
 
 
 
 SWOS was the first competition using a format like this that I was witness to. At the time, I was just a lurker on the server, and Quirby would post updates and announcements for SWOS there to encourage people to participate. Seeing the stir it created within the server solidified in my head that this was a good way to drum up activity and get people involved in the community. It's why when the server got handed over to me, the first thing I thought of when it came to drumming up activity was to host a Chip Jam.
 
-Another important collaboration that happened before we were the Chiptune Café was [a song called Defected Facewear.](https://www.youtube.com/watch?v=Pr0WhBSIP0A) It was a collaboration between Jaden, Quirby, [Tobi ](https://www.youtube.com/channel/UCAWgklXUqYbr6On2eLF-zWw)and [Pegmode ](https://soundcloud.com/pegmode_dc)for BotB's [Spring Tracks VII](http://battleofthebits.org/arena/Battle/3690/Spring+Tracks+VII/) event, and I'm pretty sure they ended up breaking DefleMask while trying to export it. Pretty funny story, but besides the point.
+Another important collaboration that happened before we were the Chiptune Café was [a song called Defected Facewear.](https://www.youtube.com/watch?v=Pr0WhBSIP0A) It was a collaboration between Jaden, Quirby, [Tobi](https://www.youtube.com/channel/UCAWgklXUqYbr6On2eLF-zWw) and [Pegmode](https://soundcloud.com/pegmode_dc) for BotB's [Spring Tracks VII](http://battleofthebits.org/arena/Battle/3690/Spring+Tracks+VII/) event, and I'm pretty sure they ended up breaking DefleMask while trying to export it. Pretty funny story, but besides the point.
 
 Anyways, Defected Facewear was a pretty big bop, and for good reason. If you picked the song apart, you could see where everyone's handiwork was, but what made this song special to me is that it achieved a sort of musical synthesis. 
 
 What I mean by this is that oftentimes, when you see some big names collaborate, it's pretty much just for the hype, and the actual song is just half one artist and half the other artist. However, Defected  Facewear is how to do a collaboration right. It's homogenized, and creates an all new unique product that takes the best aspects of those who worked on it and mixed it into one song. That's my take on it, at least.
 
-Defected Facewear made me value collaboration in a way I hadn't before. In October, [Wavetable Guy made a cover of Defected Facewear on the VRC7,](https://www.youtube.com/watch?v=hc1CdKCWKsA&t) and it got me thinking about collaborative projects again. That's how I got the idea of hosting a chip contest that was centered around teamwork, which eventually spiraled into the Teamwork Trials. I hope that it can produce that same creative synthesis that Defected Facewear pulled off.
+Defected Facewear made me value collaboration in a way I hadn't before. In October, [Wavetable Guy made a cover of Defected Facewear on the VRC7](https://www.youtube.com/watch?v=hc1CdKCWKsA&t), and it got me thinking about collaborative projects again. That's how I got the idea of hosting a chip contest that was centered around teamwork, which eventually spiraled into the Teamwork Trials. I hope that it can produce that same creative synthesis that Defected Facewear pulled off.
 
 
   
-       [caption id="" align="alignnone" width="1600.0"]![ Autumn Jam Album Art created by Ravancloak. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1543822544921-NKM1IMKT4AS8SP0LRVDO/ke17ZwdGBToddI8pDm48kNgFyjlEyNHlSWEjE-QCU1p7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UdLKTLgsLX9_T7LnpaostY9WYLb0IFNaX6bgMhY2dUNBWIB-7cQgYKo_bDpR6cEVkg/coverart.jpg?format=original)  Autumn Jam Album Art created by Ravancloak. [/caption] 
+![ Autumn Jam Album Art created by Ravancloak. ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1543822544921-NKM1IMKT4AS8SP0LRVDO/ke17ZwdGBToddI8pDm48kNgFyjlEyNHlSWEjE-QCU1p7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UdLKTLgsLX9_T7LnpaostY9WYLb0IFNaX6bgMhY2dUNBWIB-7cQgYKo_bDpR6cEVkg/coverart.jpg?format=original)  Autumn Jam Album Art created by Ravancloak.
   
 
 

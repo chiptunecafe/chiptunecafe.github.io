@@ -18,7 +18,7 @@ tags:
  - Interview
 ---
 
-[caption id="" align="alignnone" width="600.0"]![ Harieiv’s Profile Picture on Twitter ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1543818864503-E759Z5AI3MY57NQLQZ8Q/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwQIrqN0bcqL_6-iJCOAA0qwytzcs0JTq1XS2aqVbyK6GtMIM7F0DGeOwCXa63_4k/9554595f1ef5920.jpg?format=original)  Harieiv’s Profile Picture on Twitter [/caption] 
+![ Harieiv’s Profile Picture on Twitter ](https://images.squarespace-cdn.com/content/v1/5bfb3cac1aef1da317d0f89a/1543818864503-E759Z5AI3MY57NQLQZ8Q/ke17ZwdGBToddI8pDm48kOyctPanBqSdf7WQMpY1FsRZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwwQIrqN0bcqL_6-iJCOAA0qwytzcs0JTq1XS2aqVbyK6GtMIM7F0DGeOwCXa63_4k/9554595f1ef5920.jpg?format=original)  Harieiv’s Profile Picture on Twitter
   
 
 
