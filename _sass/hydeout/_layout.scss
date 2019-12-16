@@ -216,10 +216,11 @@ body {
 ----------------------------------------------------------- */
 
 #sidebar a {
-  color: $sidebar-link-color;
+  //color: $sidebar-link-color;
 
   svg {
     fill: $sidebar-icon-color;
+    vertical-align: middle;
   }
 
   &:hover, &:focus, &.active {
@@ -247,6 +248,7 @@ body {
 }
 
 #sidebar-nav-links {
+  color: $link-color;
   flex-flow: column nowrap;
   font-size: 1.2em;
   font-weight: 500;
@@ -254,13 +256,20 @@ body {
 
 #sidebar-icon-links {
   max-width: 100%;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
   justify-content: center;
   margin-top: 1rem;
-
   @media (min-width: $large-breakpoint) {
     margin-left: -0.25em;
     justify-content: flex-start;
+    flex-flow: column nowrap; // one row per label on desktop/tablet
+  }
+}
+
+#sidebar .label {
+  display: none;
+  @media (min-width: $large-breakpoint) { // show label on desktop/tablet
+    display: inline;
   }
 }
 
@@ -270,7 +279,9 @@ body {
 }
 
 #sidebar nav > .icon {
-  font-size: 1.5rem;
+  color: $sidebar-link-color;
+  font-size: 1.35em;
+  font-weight: 500;
   display: inline-block;
   margin: 0 0.25em;
 }
