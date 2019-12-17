@@ -221,6 +221,7 @@ body {
   svg {
     fill: $sidebar-icon-color;
     vertical-align: middle;
+    //height: 2em;
   }
 
   &:hover, &:focus, &.active {
@@ -280,7 +281,7 @@ body {
 
 #sidebar nav > .icon {
   color: $sidebar-link-color;
-  font-size: 1.35em;
+  font-size: 1.2em;
   font-weight: 500;
   display: inline-block;
   margin: 0 0.25em;
