@@ -35,3 +35,7 @@ sidebar_home_link:  false
                                 # to enable a separate blog link.
 hydeout:
   discord:        https://discord.gg/dpHG83b
+
+# Disqus comment
+disqus:
+  shortname: chiptunecafe
