@@ -37,6 +37,7 @@ sidebar_home_link:  false
 # Discord link
 hydeout:
   discord:        https://discord.gg/dpHG83b
+  matrix:         https://matrix.to/#/+chiptune.cafe:matrix.org
 
 # Disqus comment
 disqus:
