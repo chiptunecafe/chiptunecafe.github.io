@@ -1,7 +1,7 @@
 ---
 comments: true
 layout: post
-title: 'Chiptune Night: Nightride FM's New Chiptune Radio Show Coming Tomorrow'
+title: "Chiptune Night: Nightride FM's New Chiptune Radio Show Coming Tomorrow"
 categories: [blog]
 tags: [radio]
 ---
