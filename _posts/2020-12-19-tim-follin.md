@@ -6,9 +6,11 @@ categories: [blog]
 tags: [history]
 ---
 
-*Editor's Note: This article was written by [Dr. Z](https://twitter.com/DocStarZed) and [Marklincadet](https://twitter.com/marklincadet) for Tim Follin's 50th birthday. *
+*Editor's Note: This article was written by [Dr. Z](https://twitter.com/DocStarZed) and [Marklincadet](https://twitter.com/marklincadet) for Tim Follin's 50th birthday.*
 
 He might not have the same fame as Koji Kondo or Rob Hubbard, but should you find yourself digging around for the best chiptunes of the 80s and 90s, you will hear the whispers of a legendary name whose work unlike any other caused buzz amongst not only video game fans, but his fellow composers as well. That man turns 50 today, and his name is Tim Follin.
+
+<!--more-->
 
 Born and raised in St. Helens, Merseyside along with brothers Mike and Geoff, Tim was always looking for something new to keep himself entertained, and little was more exciting in the Follin household than their ZX Spectrum. As older brother Mike started immersing himself in the vast world of coding Tim did some tinkering of his own, channeling his love for music into the beeper the 48k Spectrum had for sound. He later joined a music school as a more conventional pursuit of his passion, but ended up dropping out only three months later when he realised writing for old-fashioned orchestras wasn’t quite his thing compared to the prog rock bands he grew up listening to. It would be by complete chance that at age 14-and-a-half Tim combined his two fascinations into a career, as a simple tune of his ended up in Mike’s first game to hit shelves, Subterranean Stryker, and gamers got their first taste of the tunes to come.
 
